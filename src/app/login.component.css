@@ -1,0 +1,106 @@
+
+
+
+.form__section{
+  height: 100%;
+  width: 100%;
+  margin: auto;
+
+  color:#333;
+  /* display: grid;
+  justify-content: end;
+  align-items: center; */
+  
+  /* grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(6, 1fr); */
+}
+
+.form__wrap{
+ 
+
+  padding: 2rem ;
+  
+  
+  /*
+  grid-column: 2/span 2;
+  grid-row: 2/6;
+  border-radius: .5rem; */
+  
+
+
+}
+
+.forms{
+  background-color:#fefefe;
+  border-radius: .5rem;
+  text-align: center;
+  padding: 2rem;
+
+}
+
+.forms > *{
+  margin: 0;
+  padding: 0;
+}
+
+.forms h3{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+
+.sign_in--btn{
+  text-decoration: none;
+  color: #fefefe;
+
+ padding: .5rem;
+  display: block;
+  background: #FD5F00;
+box-shadow: 0px 4px 20px 4px rgba(253, 95, 0, 0.25);
+border-radius: 5px;
+}
+
+.gm--btn{
+  text-decoration: none;
+  color: #333;
+  background: red;
+ padding: .5rem;
+  display: block;
+  background: #f6f6f6;
+
+border-radius: 5px;
+}
+
+
+.forms .input-field{
+  margin-top: 0rem; 
+    margin-bottom: .2rem;
+  
+}
+
+.item{
+  background: #f2f2f2;
+  margin: 1rem;
+}
+
+.option{
+  text-align: center;
+ 
+  line-height: 4rem;
+  border-radius: .5rem;
+
+}
+
+.opt{
+background: red;
+}
+
+.option a{
+  text-align: none;
+  color: #fefefe;
+}
+
+
+
+

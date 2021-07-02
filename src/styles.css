@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+*,body{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-size: 62,4%;
+  background: linear-gradient(90.38deg, #17193B 1.66%, #13152D 98.4%);
+}
